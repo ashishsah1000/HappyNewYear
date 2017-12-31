@@ -1,9 +1,10 @@
 $(document).ready(function() {
+    $(".result").hide();
     var name = "";
     var pass = '';
     var flag = 0;
     var users = [
-        { username: "ashish", pass: "1234524" },
+        { username: "ashish", pass: "123", pro: "abc", impro: "xyz" },
         { username: "animesh", pass: "animesh123" },
         { username: "shilpi", pass: "shilpi123" },
         { username: "manisha", pass: "123manisha" },
@@ -28,14 +29,27 @@ $(document).ready(function() {
         console.log(pass);
         for (var i = 0; i < l; i++) {
             if (users[i].username == username && users[i].pass == pass) {
-                flag = 1;
+                flag = i;
                 console.log(flag);
+                work(flag);
                 break;
             } else {
                 flag = 0;
             }
 
         }
-        console.log(flag);
+    }
+
+    function work(flag) {
+        $(".info").hide();
+        $(".result").show();
+        var welcome = "Welcome " + users[flag].username + " let's unbox your Message...";
+        $(".a_name").html(welcome);
+        var pr = users[flag].pro;
+        var im = users[flag].impro;
+        $(".pro").html(pr);
+        $(".impro").html(im);
+
+
     }
 });

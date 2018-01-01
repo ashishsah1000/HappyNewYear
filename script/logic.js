@@ -19,10 +19,10 @@ $(document).ready(function() {
             impro: "The things you need to improve, you just need to get started with your dreams or interest as soon as possible. Try to attend TM as much as possible because it links us to many people of different profession."
         },
         {
-            username: "gourav",
-            pass: "gourav110",
-            pro: "Hey animesh I am glad to see you...",
-            impro: "many thing to be improved"
+            username: "anjali",
+            pass: "anjali111",
+            pro: "Hello Anjali, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are a really helpful person. You believe in inspiring others.  The inspiring, helpful nature you have is an amenity for you. I hope you get all you want in your life.  You are quite intelligent, helpful and supportive. Your love for music is something I like very much, I enjoy singing the songs with you.  Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
+            impro: "You have to understand the difference between right and wrong. They can deviate you from being a good human being apart from that they can also get you in many problems. So have a look. Well, you are quite helpful and kudos for that..."
         },
         { username: "shilpi", pass: "shilpi123", pro: "", impro: "" },
         {

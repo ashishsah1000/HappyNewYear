@@ -10,7 +10,7 @@ $(document).ready(function() {
         { username: "manisha", pass: "123manisha" },
         { username: "chetna mam", pass: "123" },
         { username: "aditya", pass: "123452" },
-    ];
+    ]; 
     var l = users.length;
     $("#start").click(function() {
         name = $('#mySelect :selected').text();

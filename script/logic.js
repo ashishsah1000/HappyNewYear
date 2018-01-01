@@ -37,6 +37,14 @@ $(document).ready(function() {
             pro: "Hello Chetna Mam, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are an honest and trustful person. You believe in inspiring others.  The inspiring nature you have is an amenity for you. I hope you get all you want in your life.  You are quite intelligent and you even go against of the wrong dowers. You support others and want to make a better society, Even you seem to be successful.  Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
             impro: "The things you need to improve: Mam you are my teacher but still as I will tell, because I had said that. Sometimes you are unprejudicial about few students. May you be quite busy...but it feels happy when we get your advice...Well, thanks Mam for supporting us. "
         },
+        {
+            username: "saroj mam",
+            pass: "123saroj",
+            pro: "Hello Saroj mam, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are a really a true teacher. I was not present whole year in the school but still, I liked your way. You explained each and every point to the students. Despite I was a very doubtful person you still tried to clarify my doubts. Never let this thing to pave away from you mam. I am really thankful for what you taught.",
+            impro: "I never know...beacuse I was not for a longer period in the school. So sorry mam."
+        },
+        { username: "aditya", pass: "123452", pro: "", impro: "" },
+        { username: "aditya", pass: "123452", pro: "", impro: "" },
         { username: "aditya", pass: "123452", pro: "", impro: "" },
     ];
     var l = users.length;

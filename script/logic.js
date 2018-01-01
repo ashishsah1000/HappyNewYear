@@ -40,10 +40,15 @@ $(document).ready(function() {
         {
             username: "saroj mam",
             pass: "123saroj",
-            pro: "Hello Saroj mam, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are a really a true teacher. I was not present whole year in the school but still, I liked your way. You explained each and every point to the students. Despite I was a very doubtful person you still tried to clarify my doubts. Never let this thing to pave away from you mam. I am really thankful for what you taught.",
+            pro: "Hello Saroj mam, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are a really a true teacher. I was not present whole year in the school but still, I liked your way. You explained each and every point to the students. Despite I was a very doubtful person you still tried to clarify my doubts. Never let this thing to pave away from you mam. I am really thankful for what you taught.Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
             impro: "I never know...beacuse I was not for a longer period in the school. So sorry mam."
         },
-        { username: "aditya", pass: "123452", pro: "", impro: "" },
+        {
+            username: "ajay",
+            pass: "ajay100",
+            pro: "Hello Ajay, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are really a hardworking, intelligent and ambitious person. That even brings profit to your life. You try to cooperate with others and that is the amenity you have got. You are the person who has the power to muster everyone. kudos for that...Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
+            impro: "You have to discriminate between good and bad. That can help you to make you a better person. You sometimes create chaos, Believe me, my friend life is beyond our thinking. Search for the things that will help you in augment."
+        },
         { username: "aditya", pass: "123452", pro: "", impro: "" },
         { username: "aditya", pass: "123452", pro: "", impro: "" },
     ];

@@ -64,12 +64,26 @@ pass input {
     color: antiquewhite;
 }
 
+.carousel a img {
+    height: 70vh !important;
+}
+
+.error {
+    height: 40px;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    background: black;
+    color: white;
+}
+
 
 /* setting up media query */
 
 @media only screen and (max-width: 600px) {
     .context {
-        max-width: 350px;
+        max-width: 320px;
         margin-top: 50px;
         margin-left: 20px;
         font-weight: 100 !important;
@@ -84,5 +98,14 @@ pass input {
     .info {
         padding: 20px 20px;
         color: gray;
+    }
+    h4 {
+        font-size: 30px;
+    }
+    h1 {
+        font-size: 45px;
+    }
+    .carousel a img {
+        height: 40vh !important;
     }
 }

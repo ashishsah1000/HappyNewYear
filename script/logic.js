@@ -49,7 +49,12 @@ $(document).ready(function() {
             pro: "Hello Ajay, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are really a hardworking, intelligent and ambitious person. That even brings profit to your life. You try to cooperate with others and that is the amenity you have got. You are the person who has the power to muster everyone. kudos for that...Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
             impro: "You have to discriminate between good and bad. That can help you to make you a better person. You sometimes create chaos, Believe me, my friend life is beyond our thinking. Search for the things that will help you in augment."
         },
-        { username: "aditya", pass: "123452", pro: "", impro: "" },
+        {
+            username: "petels",
+            pass: "petels123",
+            pro: "Hello, Friends, Happy New Year. I am really chuffed you are here. Prayer is something which can lead you to greed and disaster if done in wrong way. We, humans, are very selfish we always pray for ourself (god give me a beautiful  Gf, Bf, God please give me good marks thou the teacher is going to give you marks - _ -). This year try praying for others, Pray for this world happiness. What will you get in result? Immense Peace and satisfaction.  - Ashish",
+            impro: "Sorry, For getting a detailed info about you...you can personal message me.I will create it for you. This ID is universal Id. That will be a fun PM me ;)"
+        },
         { username: "aditya", pass: "123452", pro: "", impro: "" },
     ];
     var l = users.length;

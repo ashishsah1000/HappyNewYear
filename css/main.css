@@ -64,8 +64,15 @@ pass input {
     color: antiquewhite;
 }
 
+.carousel {
+    margin-left: -10px !important;
+    margin-right: -10px !important;
+}
+
 .carousel a img {
     height: 70vh !important;
+    margin-left: -10px !important;
+    margin-right: -10px !important;
 }
 
 .error {

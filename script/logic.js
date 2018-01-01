@@ -55,7 +55,12 @@ $(document).ready(function() {
             pro: "Hello, Friends, Happy New Year. I am really chuffed you are here. Prayer is something which can lead you to greed and disaster if done in wrong way. We, humans, are very selfish we always pray for ourself (god give me a beautiful  Gf, Bf, God please give me good marks thou the teacher is going to give you marks - _ -). This year try praying for others, Pray for this world happiness. What will you get in result? Immense Peace and satisfaction.  - Ashish",
             impro: "Sorry, For getting a detailed info about you...you can personal message me.I will create it for you. This ID is universal Id. That will be a fun PM me ;)"
         },
-        { username: "aditya", pass: "123452", pro: "", impro: "" },
+        {
+            username: "saswati mam",
+            pass: "mam123",
+            pro: "Hello mam...Happy New Year....Mam, I am really thankful to you because due to you only, I was able to understand the life better. You are a perfect teacher, I have become your compliant. The days I spent with you, helped me to augment in my real life. Mam, you have got an amazing way of teaching. Even you have proved love is powerful than hatred. Thanks, mam.  Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
+            impro: "Nothing I can say about you. But yess...app akele akele ghumte rhte hai... -_-"
+        },
     ];
     var l = users.length;
     $("#start").click(function() {

@@ -67,6 +67,7 @@ pass input {
 .carousel {
     margin-left: -10px !important;
     margin-right: -10px !important;
+    margin-top: 30px;
 }
 
 .carousel a img {
@@ -83,6 +84,14 @@ pass input {
     right: 0;
     background: black;
     color: white;
+}
+
+.imp {
+    padding: 30px 0px !important;
+}
+
+.proo {
+    padding: 30px 0px !important;
 }
 
 

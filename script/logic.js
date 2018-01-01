@@ -13,6 +13,12 @@ $(document).ready(function() {
             impro: "i dont know what to say."
         },
         {
+            username: "chandan sir",
+            pass: "chandan123",
+            pro: "Hello Sir, Happy New Year. May this year bring lots of happiness to your life. Well, For your pros, you are quite chuffed and jovial kind of person. You help everyone and the main thing you do, You help them mentally. The talking nature you have is an amenity for you. I hope you get all you want in your life. Sir, Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
+            impro: "The things you need to improve, you just need to get started with your dreams or interest as soon as possible. Try to attend TM as much as possible because it links us to many people of different profession."
+        },
+        {
             username: "animesh",
             pass: "animesh123",
             pro: "Hey animesh I am glad to see you...",

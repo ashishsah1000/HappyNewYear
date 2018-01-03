@@ -61,12 +61,18 @@ $(document).ready(function() {
             pro: "Hello mam...Happy New Year....Mam, I am really thankful to you because due to you only, I was able to understand the life better. You are a perfect teacher, I have become your compliant. The days I spent with you, helped me to augment in my real life. Mam, you have got an amazing way of teaching. Even you have proved love is powerful than hatred. Thanks, mam.  Keep helping others and keep inspiring others. Doing that will make a better society and even lead us to a better human race.",
             impro: "Nothing I can say about you. But yess...app akele akele ghumte rhte hai... -_-"
         },
+        {
+            username: "ujjwala",
+            pass: "ujju100",
+            pro: "  Hey Ujjwala, Happy New year. I am glad that you are here. For your pros, you are very friendly and even intellignet. One of the amenity you have got, You can take out the work in any situation, No matter who is infront of you. You are a good looking and charming teen who encourages everyone. Help everyone and be honest so that we can make a better human race...",
+            impro: "Well their are few points where you can improve, You are not focused at your passion. You are busy in the temporary happiness. Sometimes you kind a play mind games...that's what i dislike in you...be pure and transparent hold the hand of truth, it will take you heigh in the sky... :)"
+        },
     ];
     var l = users.length;
     $("#start").click(function() {
         name = $('#mySelect :selected').text();
         if (name == "animesh")
-            console.log("yes")
+            console.log("yes")  
 
     });
     $("#passGo").click(function() {
